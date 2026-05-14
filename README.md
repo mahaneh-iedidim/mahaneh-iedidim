@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 קצת עלי
-- 🛠️ כרגע עובד על: **[קושחה לqin f21 pro]**
-- 🔭 מתמחה ב: **Android Customization, Browser Extensions**
+- 🛠️ כרגע עובד על: **קושחה לqin f21 pro**
 - 📍 ממוקם ב: **ישראל 🇮🇱**
 
 ---
@@ -16,6 +15,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical" alt="GitHub Streak" />
-</p>
