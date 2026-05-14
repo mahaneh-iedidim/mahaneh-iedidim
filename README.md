@@ -1,16 +1,22 @@
-## Hi there 👋
+# היי, אני [השם שלך]! 👋
 
-<!--
-**mahaneh-iedidim/mahaneh-iedidim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### מפתח שאוהב לבנות דברים ולהבין איך הם עובדים מבפנים
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 קצת עלי
+- 🛠️ כרגע עובד/ת על: **[קושחה לqin f21 pro]**
+- 🔭 מתמחה ב: **Android Customization, Browser Extensions**
+- ⚙️ אוהב/ת להתעסק עם: **System UI, Bootloaders & 3D Design (Fusion 360)**
+- 📍 ממוקם ב: **ישראל 🇮🇱**
+
+---
+
+## 📫 איך להשיג אותי?
+- 📧 **Email:** [mailto:ysrl88947@gmail.com]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical" alt="GitHub Streak" />
+</p>
