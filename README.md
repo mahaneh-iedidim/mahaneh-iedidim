@@ -5,15 +5,14 @@
 ---
 
 ## 🚀 קצת עלי
-- 🛠️ כרגע עובד/ת על: **[קושחה לqin f21 pro]**
+- 🛠️ כרגע עובד על: **[קושחה לqin f21 pro]**
 - 🔭 מתמחה ב: **Android Customization, Browser Extensions**
-- ⚙️ אוהב/ת להתעסק עם: **System UI, Bootloaders & 3D Design (Fusion 360)**
 - 📍 ממוקם ב: **ישראל 🇮🇱**
 
 ---
 
 ## 📫 איך להשיג אותי?
-- 📧 **Email:** [mailto:ysrl88947@gmail.com]
+- 📧 **Email:**[mailto:ysrl88947@gmail.com]
 
 ---
 
