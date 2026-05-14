@@ -12,7 +12,7 @@
 ---
 
 ## 📫 איך להשיג אותי?
-- 📧 (**Email:**)[mailto:ysrl88947@gmail.com]
+- 📧 [**Email:**](mailto:ysrl88947@gmail.com)
 
 ---
 
